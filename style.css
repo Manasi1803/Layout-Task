@@ -1,0 +1,23 @@
+body{
+	background: #f8f8cf;
+}
+
+h1{
+	text-align: center;
+	/*margin-bottom: 20px;*/
+	margin-top: 20px;
+}
+
+.dropdown{
+	margin-bottom: 20px;
+}
+
+.carousel{
+	margin-top: 10px;
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
